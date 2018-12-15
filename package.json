@@ -1,0 +1,16 @@
+{
+  "name": "d3-boilerplate",
+  "version": "1.0.0",
+  "description": "render a static d3 visualization to svg for editing in illustrator",
+  "main": "chart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carsten Rodin",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^5.7.0",
+    "jsdom": "^13.1.0",
+    "topojson": "^3.0.2"
+  }
+}
