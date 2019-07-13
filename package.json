@@ -9,8 +9,8 @@
   "author": "Carsten Rodin",
   "license": "MIT",
   "dependencies": {
-    "d3": "^5.7.0",
-    "jsdom": "^13.1.0",
+    "d3": "^5.9.7",
+    "jsdom": "^13.2.0",
     "topojson": "^3.0.2"
   }
 }
